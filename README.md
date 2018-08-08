@@ -1,6 +1,6 @@
 <h1>Testing using Jasmine</h1>
 
-<h2>A Udacity FEND project</h2>
+<B>A Udacity FEND project</B>
 
 This project demonstrates browser based testing using Jasmine.
 
